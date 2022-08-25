@@ -7,7 +7,8 @@ Date: 8/23/2022
 
 int main(void) {
 
-    printf("My name is Damien Beatson\n");
+    printf("My name is Damien Beatson!\n");
+    printf("My major is computer engineering\n");
     return 0;
 
 }
